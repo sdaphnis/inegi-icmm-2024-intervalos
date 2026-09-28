@@ -1,0 +1,40 @@
+rank,municipio,entidad,estimacion,ee,z,p_bilateral,traslape_ic95
+2,Miguel Hidalgo,Ciudad de México,155273.0300,12851.7200,1.1177,0.2637,True
+3,San Nicolás de los Garza,Nuevo León,149095.2800,7585.4000,1.7144,0.0865,True
+4,San Pedro Garza García,Nuevo León,147423.3400,12552.2300,1.5441,0.1226,True
+5,Apodaca,Nuevo León,140947.5900,7013.6100,2.2579,0.0240,True
+6,Guadalupe,Nuevo León,130959.1800,6857.2600,2.9019,0.0037,False
+7,Cuauhtémoc,Ciudad de México,130014.2800,10794.8700,2.6178,0.0089,True
+8,Azcapotzalco,Ciudad de México,125350.3700,7224.7900,3.2246,0.0013,False
+9,Corregidora,Querétaro,120650.9600,6208.2500,3.6189,0.0003,False
+10,Santa Catarina,Nuevo León,120613.6800,8370.0200,3.4043,0.0007,False
+11,Monterrey,Nuevo León,119349.5600,9984.7600,3.3050,0.0009,False
+12,Coyoacán,Ciudad de México,116197.1800,6966.3300,3.8276,0.0001,False
+13,General Escobedo,Nuevo León,115063.1300,5765.4200,4.0247,0.0001,False
+14,Querétaro,Querétaro,114572.8000,4917.1900,4.1375,0.0000,False
+15,Los Cabos,Baja California Sur,114438.3700,2883.1000,4.3008,0.0000,False
+16,Iztacalco,Ciudad de México,111364.3700,6789.5000,4.1539,0.0000,False
+17,Álvaro Obregón,Ciudad de México,110462.9100,7186.2400,4.1648,0.0000,False
+18,Isla Mujeres,Quintana Roo,109897.5500,2687.2600,4.6267,0.0000,False
+19,La Paz,Baja California Sur,108896.5800,3759.5200,4.6200,0.0000,False
+20,Hermosillo,Sonora,108529.6300,4557.1500,4.5750,0.0000,False
+21,Santiago,Nuevo León,108405.1100,8398.5000,4.1421,0.0000,False
+22,Nogales,Sonora,108375.8200,4288.9700,4.6101,0.0000,False
+23,Saltillo,Coahuila de Zaragoza,107481.7800,3512.1000,4.7363,0.0000,False
+24,Tlalpan,Ciudad de México,107472.7500,7293.0600,4.3396,0.0000,False
+25,Venustiano Carranza,Ciudad de México,107189.1100,7748.6000,4.2998,0.0000,False
+26,García,Nuevo León,107030.3200,6209.8300,4.4987,0.0000,False
+27,Zapopan,Jalisco,106710.4900,4531.2000,4.6997,0.0000,False
+28,Juárez,Chihuahua,106637.0300,2509.7000,4.8635,0.0000,False
+29,Chapala,Jalisco,106272.3700,4210.5000,4.7593,0.0000,False
+30,Sabinas Hidalgo,Nuevo León,105767.0000,7553.4800,4.4132,0.0000,False
+31,Tecate,Baja California,104460.9500,2429.6100,5.0194,0.0000,False
+32,Juárez,Nuevo León,104227.7800,4374.3500,4.8819,0.0000,False
+33,Tijuana,Baja California,104157.9500,2685.6700,5.0246,0.0000,False
+34,Mexicali,Baja California,103902.3500,3707.2600,4.9650,0.0000,False
+35,Mérida,Yucatán,103121.7500,3723.2500,5.0169,0.0000,False
+36,Cananea,Sonora,102400.5900,7183.1500,4.6724,0.0000,False
+37,Guadalajara,Jalisco,101500.6100,7076.3800,4.7433,0.0000,False
+38,Gustavo A. Madero,Ciudad de México,101183.6800,5788.2200,4.9288,0.0000,False
+39,San Luis Potosí,San Luis Potosí,99943.6700,3724.5900,5.2336,0.0000,False
+40,Cuajimalpa de Morelos,Ciudad de México,99779.8000,7701.9200,4.7650,0.0000,False

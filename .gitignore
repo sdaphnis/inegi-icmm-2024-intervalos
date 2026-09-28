@@ -1,0 +1,4 @@
+datos_inegi/opendata/
+.venv/
+__pycache__/
+.DS_Store
